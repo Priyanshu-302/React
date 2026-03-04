@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: white;
+  color: black;
+}
